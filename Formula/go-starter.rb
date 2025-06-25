@@ -15,4 +15,3 @@ class GoStarter < Formula
     assert_match version.to_s, shell_output("#{bin}/go-starter version")
   end
 end
-EOF < /dev/null

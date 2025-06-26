@@ -1,8 +1,8 @@
 class GoStarter < Formula
   desc "Comprehensive Go project generator with modern best practices"
   homepage "https://github.com/francknouama/go-starter"
-  url "https://github.com/francknouama/go-starter/archive/v1.1.1.tar.gz"
-  sha256 "128a96a7390169a57dcff286e76a60c5ef4078e1326268db0e06f685c0d88087"
+  url "https://github.com/francknouama/go-starter/archive/v1.2.1.tar.gz"
+  sha256 "33f5df4abbb80db4fcf8ed677b802a554f7406842ae76cca2190ec1201575303"
   license "MIT"
 
   depends_on "go" => :build
